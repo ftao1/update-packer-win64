@@ -10,7 +10,7 @@ This project assumes you are running WSL on Windows. You could also try this on 
 
 The following software must be installed on your local machine before you can use the script.
 
-    - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+  - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ## Usage
 
