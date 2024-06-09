@@ -44,7 +44,7 @@ clear
 if [ -z "$1" ]; then
     print_red "No argument supplied."
     echo
-    print_green "USAGE: ./update_packer.sh ${RED}<version>${NOCOL}"
+    print_green "USAGE: ./update-packer-win64.sh ${RED}<version>${NOCOL}"
     echo
     echo "Please supply the version of packer you wish to download as an argument, e.g., 1.7.9"
     echo
