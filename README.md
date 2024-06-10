@@ -14,7 +14,7 @@ The following software must be installed on your local machine before you can us
 
 ## Usage
 
-    $ update-packer-win64.sh <version>
+    $ ./update-packer-win64.sh <version>
 
 ## License
 
